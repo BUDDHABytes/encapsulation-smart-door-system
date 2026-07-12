@@ -19,7 +19,7 @@ class Staff:
         print(f"Staff Name: {self.s_name}")
         print(f"Access Code: {self.access_code}")
 
-staff_member = Staff("Pearl", "123456")
+staff_member = Staff("Arhin Pearl Sarfo",FOE.41.006.045.25)
 staff_member.display_info()
 
 staff_member.access_code = "secure987"
